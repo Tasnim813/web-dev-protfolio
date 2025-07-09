@@ -169,5 +169,6 @@ footer input[type="text"], footer textarea{
     width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
+    border: none;
 
 }
